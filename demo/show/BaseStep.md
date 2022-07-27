@@ -5,7 +5,7 @@
     <div slot="1">一步骤显示内容</div>
     <div slot="2">二步骤显示内容</div>
     <div slot="3">三步骤显示内容</div>
-    <div slot="4">四步骤显示内容</div>
+    <div slot="4">四步骤显示内容 </div>
     </BaseStep>
     <!--接口信息    -->
     </div>
